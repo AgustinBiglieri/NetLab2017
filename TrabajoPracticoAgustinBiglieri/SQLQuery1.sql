@@ -1,0 +1,1 @@
+﻿Select count(orderID), O.CustomerID from Orders O  GROUP BY O.CustomerID
